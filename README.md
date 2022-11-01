@@ -4,12 +4,12 @@
 1. 检查当前电脑是否已安装git, 进入命令行输入如下命令*git version*，如有没报错，说明已安装，否则没安装。
 2. windows安装:
     * 进入[git](https://git-scm.com/)官网下载你window对应的版本(32位还是64位)git，再一路下一步即可。
-    <img src="./imgs/window-git.png" alt="" width="800" />
+    <img src="./imgs/window_git.png" alt="" width="800" />
     * 安装完后，在桌面单击鼠标右键，菜单栏中出现"Git GUI Here"与"Git Bash Here"说明安装成功。<br />
-    ![成功后](./imgs/git-install-success.png) 
+    ![成功后](./imgs/git_install_success.png) 
 3. MacOs安装:
     * 同样进入[git](https://git-scm.com/)官网，按照macOs安装方式安装即可。
-    <img src="./imgs/mac-git.png" alt="" width="800"/>
+    <img src="./imgs/mac_git.png" alt="" width="800"/>
 
 ### Github账号注册
 进入到[github官网](https://github.com)，点击右上角"Sign Up"按钮注册账号，按要求填写好你的登录email, 账号与密码。
